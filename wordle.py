@@ -1,0 +1,1 @@
+print('ferd is so cute')
