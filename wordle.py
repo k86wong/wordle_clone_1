@@ -46,7 +46,7 @@ for i in range(6):
     print(alphabet_sign)
     print("")
 
-print("Sorry, you did not get the word of the day this time around! Better luck next time.")
+print(f"Sorry, you did not get the word of the day this time around! Better luck next time.\nThe word of the day was {day_word}.")
 
 
 # #Still need to implement the letter bank - which letters are not used? 
